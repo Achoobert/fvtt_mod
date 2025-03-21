@@ -1,0 +1,32 @@
+{
+  "id": "achoodata",
+  "title": "achoo_data",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Isaac",
+      "email": "isaac@schubert.dev",
+      "url": "isaacschubert.com",
+      "discord": "achoobert",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "coctables",
+      "label": "CoC_Tables",
+      "path": "packs/coctables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "CoC7",
+      "flags": {}
+    }
+  ]
+}
