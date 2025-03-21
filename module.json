@@ -2,6 +2,8 @@
   "id": "achoodata",
   "title": "achoo_data",
   "version": "1.0.0",
+  "manifest": "https://github.com/Achoobert/fvtt_mod/releases/latest/download/module.json",
+  "download": "https://github.com/Achoobert/fvtt_mod/releases/download/1.0.0/module.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
